@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 {
-	//генератор випадкових чисео
+	//генератор випадкових чисел
 	srand((unsigned)time(NULL));
 	setlocale(LC_ALL, ".1251");
 	system("color 1F");
